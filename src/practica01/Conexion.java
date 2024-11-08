@@ -111,7 +111,7 @@ public class Conexion {
         
         // Realizar alguna operación si es necesario
         
-        // Desconectar de la base de datos
+        // Desconectar de la base de datos//
         conexion.desconectar();
     }
 }
